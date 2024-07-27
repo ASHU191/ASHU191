@@ -3,7 +3,7 @@
  
 <div align="left">
   
-[![](https://visitcount.itsvg.in/api?id=ASHU191&icon=3&color=6)](https://github.com/saadahmed0147)
+[![](https://visitcount.itsvg.in/api?id=ASHU191&icon=3&color=6)](https://github.com/ASHU191)
   
 </div>
 
@@ -15,7 +15,7 @@
 
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,dart,flutter,git,github,postman,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,reactjs,tailwindcss,firebase,monhodb,,dart,flutter,git,github,postman,)](https://skillicons.dev)
 
 ### Connect with me:
 
