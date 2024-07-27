@@ -15,7 +15,7 @@
 
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,firebase,monhodb,,dart,flutter,git,github,postman,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,firebase,mongodb,dart,flutter,git,github,postman,)](https://skillicons.dev)
 
 ### Connect with me:
 
