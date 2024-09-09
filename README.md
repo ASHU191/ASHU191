@@ -7,12 +7,12 @@
   
 </div>
  
-Code Wizardry 🧙‍♂️: Turning coffee ☕ into code with my MERN stack magic – MongoDB, Express.js, React.js, and Node.js!
-UI Sorcery ✨: Crafting interfaces so smooth, you’d think they’re butter 🧈 – powered by React.js.
-Backend Alchemy 🔮: Concocting server-side spells with Node.js and Express.js to make data dance 🕺.
-Database Shenanigans 📊: Managing MongoDB like a boss – your data’s best friend 🤝.
-Project Playground 🎢: Dive into my repos – it’s like an amusement park 🎠 of code and creativity.
-Collab Squad 👯‍♂️: Let’s team up and turn your wildest tech dreams into reality 🚀.
+* Code Wizardry 🧙‍♂️: Turning coffee ☕ into code with my MERN stack magic – MongoDB, Express.js, React.js, and Node.js!
+* UI Sorcery ✨: Crafting interfaces so smooth, you’d think they’re butter 🧈 – powered by React.js. 
+* Backend Alchemy 🔮: Concocting server-side spells with Node.js and Express.js to make data dance 🕺.
+* Database Shenanigans 📊: Managing MongoDB like a boss – your data’s best friend 🤝.
+* Project Playground 🎢: Dive into my repos – it’s like an amusement park 🎠 of code and creativity.
+* Collab Squad 👯‍♂️: Let’s team up and turn your wildest tech dreams into reality 🚀.
 
 
 ### Languages and Tools:
