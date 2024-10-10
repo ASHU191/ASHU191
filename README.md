@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Arsalan Aftab</h1>  
 <h3 align="center">MERN STACK DEVELOPER</h3>
 
-<img src="images/your-image-file-name.jpg" style="width: 100%" alt="bg-img">
+<img src="Images/banner.png" style="width: 100%" alt="bg-img">
 
-<div align="left">   
-  [![](https://visitcount.itsvg.in/api?id=ASHU191&icon=3&color=6)](https://github.com/ASHU191)
-</div>
+
 
 * Code Wizardry 🧙‍♂️: Turning coffee ☕ into code with my MERN stack magic – MongoDB, Express.js, React.js, and Node.js!
 * UI Sorcery ✨: Crafting interfaces so smooth, you’d think they’re butter 🧈 – powered by React.js. 
