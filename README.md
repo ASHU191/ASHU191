@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Arsalan Aftab</h1>  
 <h3 align="center">MERN STACK DEVELOPER</h3>
 
-<img src="Images/banner.png" style="width: 100%" alt="bg-img">
+<img src="Images/banner2.png" style="width: 100%" alt="bg-img">
 
 
 
