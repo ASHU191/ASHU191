@@ -6,12 +6,16 @@
 
 
 🚀 Full-Stack Virtuoso: Building end-to-end web and mobile solutions with modern tech magic.
-🎨 Frontend Craftsman: Creating pixel-perfect, responsive UIs with React, Next.js, and Tailwind – because first impressions matter.
-🛠️ Backend Architect: Designing powerful APIs and scalable backends with Node.js and Express.js – where the real magic happens.
-📊 Data Ninja: Mastering MongoDB and Firebase – transforming raw data into actionable insights.
-🧰 Tech Arsenal: From HTML to Flutter, WordPress to Shopify – if it’s tech, I’ve got it covered.
-🤝 Collaboration Pro: Streamlining workflows with Git, GitHub, and Vercel – because teamwork makes the dream work.
 
+🎨 Frontend Craftsman: Creating pixel-perfect, responsive UIs with React, Next.js, and Tailwind – because first impressions matter.
+
+🛠️ Backend Architect: Designing powerful APIs and scalable backends with Node.js and Express.js – where the real magic happens.
+
+📊 Data Ninja: Mastering MongoDB and Firebase – transforming raw data into actionable insights.
+
+🧰 Tech Arsenal: From HTML to Flutter, WordPress to Shopify – if it’s tech, I’ve got it covered.
+
+🤝 Collaboration Pro: Streamlining workflows with Git, GitHub, and Vercel – because teamwork makes the dream work.
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwindcss,materialui,bootstrap,firebase,mongodb,nodejs,expressjs,dart,flutter,wordpress,git,github,vercel,postman,)](https://skillicons.dev)
 
