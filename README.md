@@ -13,7 +13,7 @@
 * Collab Squad 👯‍♂️: Let’s team up and turn your wildest tech dreams into reality 🚀.
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwindcss,materialui,bootstrap,firebase,mongodb,nodejs,expressjs,dart,flutter,git,github,vercel,postman,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwindcss,materialui,bootstrap,firebase,mongodb,nodejs,expressjs,dart,flutter,wordpress,git,github,vercel,postman,)](https://skillicons.dev)
 
 ### Connect with me:
 
