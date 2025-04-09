@@ -17,7 +17,7 @@
 
 🤝 Collaboration Pro: Streamlining workflows with Git, GitHub, and Vercel – because teamwork makes the dream work.
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,react,nextjs,threejs,tailwindcss,materialui,bootstrap,firebase,mongodb,nodejs,expressjs,dart,flutter,wordpress,git,github,vercel,postman,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,react,nextjs,nodejs,expressjs,tailwindcss,materialui,bootstrap,firebase,mongodb,dart,flutter,wordpress,git,github,vercel,postman,)](https://skillicons.dev)
 
 ### Connect with me:
 
